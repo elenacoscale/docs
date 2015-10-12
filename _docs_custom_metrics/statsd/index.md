@@ -14,7 +14,7 @@ The CoScale plugin for StatsD will push all metrics available in the StatsD daem
 
 1. Clone repository to your StatsD `node_modules` directory
     `git clone https://github.com/CoScale/coscale-statsd-plugin.git`
-2. Change your `config.js` to include the CoScale backend (example below).
+2. Change your `config.js` to include the CoScale back-end (example below).
 3. Restart StatsD daemon
 
 ### Config
